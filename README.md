@@ -1,5 +1,5 @@
 ## Hi there 👋
 
 - 🎓  MS student@ZJU.
-- 🏠  Homepage at [haochengxia.com](http://blog.haochengxia.com).
-<!-- - 💬  My [resume](http://blog.haochengxia.com/about/), and [YouTube](https://haochengxia.com/s/youtube) channel. -->
+- 🏠  Homepage at [haochengxia.com](http://haochengxia.com).
+<!-- - 💬  My [resume](http://haochengxia.com/files/resume.pdf), and [YouTube](http://haochengxia.com/s/youtube) channel. -->
